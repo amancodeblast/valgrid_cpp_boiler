@@ -17,6 +17,7 @@ UID - 119085431
 ```
 git clone --recursive git@github.com:amancodeblast/valgrid_cpp_boiler.git
 cd cpp-boilerplate
+git checkout valgrind_exercise
 mkdir build
 cd build
 cmake ..
